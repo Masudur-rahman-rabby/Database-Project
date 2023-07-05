@@ -1,2 +1,2 @@
 # Database-Project
-HR-Management Syatem
+HR-Management System
